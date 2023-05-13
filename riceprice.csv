@@ -1,0 +1,600 @@
+﻿division,district,upazila,bazar,merchandise,price_type,year,lowest_price,maximum_price,price
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2010,4,5,4.5
+Dhaka,Rajbari,Rajbari Sadar,Rajbari Sadar,Aman,Retail,2010,5,5,5
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2010,5,6,5.5
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2010,10,12,11
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2010,12,12.5,12.25
+Khulna,Narail,Narail Sadar,Narail Sadar,Aman,Retail,2010,14.5,16,15.25
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2010,12,22,17
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Aman,Retail,2010,17.61,17.99,17.8
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Boro,Retail,2010,18.24,18.68,18.46
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2010,12,25,18.5
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Boro,Retail,2010,18.53,18.98,18.76
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Aman,Retail,2010,18.68,19.08,18.88
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aus,Retail,2010,15,25.6,20.3
+Khulna,Jhenaidah,Jhenaidah Sadar,Jhenaidah Sadar,Aman,Retail,2010,20,22,21
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Aman,Retail,2010,21.21,21.59,21.4
+Khulna,Jhenaidah,Jhenaidah Sadar,Jhenaidah Sadar,Aman,Retail,2010,22,25,23.5
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Aman,Retail,2010,24,26,25
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2010,24.92,26,25.46
+Chittagong,Lakshmipur,Lakshmipur Sadar,Lakshmipur Sadar,Aman,Retail,2010,25,26,25.5
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Aman,Retail,2010,25,26,25.5
+Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,Boro,Retail,2010,25,27,26
+Chittagong,Brahmanbaria,Brahmanbaria Sadh,Brahmanbaria Sadar,Aman,Retail,2010,26,28,27
+Chittagong,Chandpur,Chandpur Sadar,Chandpur Sadar,Aman,Retail,2010,26,28,27
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2010,25,30,27.5
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Cox's Bazar Sadar,Aman,Retail,2010,25,30,27.5
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Boro,Retail,2010,28,30,29
+Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Sadar,Boro,Retail,2010,28,30,29
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Boro,Retail,2010,28.74,29.82,29.28
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2010,28,30.67,29.33
+Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,Boro,Retail,2010,30,32,31
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Cox's Bazar Sadar,Aman,Retail,2010,29.5,35,32.25
+Dhaka,Tangail,Bhuapur,Sialkoal Bazar,Aman,Retail,2010,30,35,32.5
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Boro,Retail,2010,30,35,32.5
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2010,31.5,33.5,32.5
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Boro,Retail,2010,31.98,33.24,32.61
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2010,32.75,34.17,33.46
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2010,33,34.33,33.67
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2010,34.3,35.63,34.96
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2010,32.5,37.5,35
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2010,34,36,35
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Cox's Bazar Sadar,Aman,Retail,2010,33.5,37.5,35.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2010,35.75,37.08,36.41
+Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,Boro,Retail,2010,36,38,37
+Dhaka,Tangail,Madhupur,Madhupur,Aman,Retail,2010,35,40,37.5
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Boro,Retail,2010,37.5,38.76,38.13
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2010,37,40,38.5
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2010,37.67,40,38.83
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,Cox's Bazar Sadar,Aman,Retail,2010,35,45,40
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2010,39.7,41.3,40.5
+Dhaka,Tangail,Bhuapur,Sialkoal Bazar,Aman,Retail,2010,40,45,42.5
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2010,40,45,42.5
+Dhaka,Tangail,Madhupur,Madhupur,Aman,Retail,2010,40,45,42.5
+Dhaka,Tangail,Madhupur,Madhupur,Aman,Retail,2010,40,45,42.5
+Dhaka,Tangail,Madhupur,Madhupur,Aman,Retail,2010,40,45,42.5
+Dhaka,Tangail,Madhupur,Madhupur,Aman,Retail,2010,40,45,42.5
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2010,42,44,43
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Aman,Retail,2010,42,45,43.5
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Aman,Retail,2010,44,50,47
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2010,46,48,47
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2010,42,53,47.5
+Dhaka,Tangail,Bhuapur,Sialkoal Bazar,Aman,Retail,2010,45,50,47.5
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2010,42,60,51
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Aus,Retail,2010,51,51.6,51.3
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Aus,Retail,2010,51.6,52.1,51.85
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Boro,Retail,2010,52,52.6,52.3
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2010,45,60,52.5
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2010,45,60,52.5
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Boro,Retail,2010,53.25,53.75,53.5
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Boro,Retail,2010,54.5,54.75,54.63
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2010,50,60,55
+Chittagong,Noakhali,Noakhali Sadar,Noakhali Sadar,Aman,Retail,2010,25,26.5,25.75
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2011,12.63,12.75,12.69
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2011,12.75,13.03,12.89
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2011,12,14,13
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Boro,Retail,2011,13,14,13.5
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2011,12,16,14
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2011,13,16,14.5
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2011,14,15,14.5
+Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Sadar,Aman,Retail,2011,14,16,15
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2011,15,16,15.5
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aus,Retail,2011,14,18,16
+Dhaka,Jamalpur,Jamalpur Sadar,Jamalpur Sadar,Boro,Retail,2011,15.5,16.5,16
+Chittagong,Feni,Feni,Feni Sadar,Aus,Retail,2011,15.83,16.2,16.02
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2011,16,16.5,16.25
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2011,16,17,16.5
+Sylhet,Habiganj,Habiganj Sadar,Habiganj Sadar,Boro,Retail,2011,16.75,17,16.88
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2011,17,17.52,17.26
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2011,17.16,17.55,17.36
+Sylhet,Habiganj,Habiganj Sadar,Habiganj Sadar,Boro,Retail,2011,17.25,17.5,17.38
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2011,17.9,18.27,18.08
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2011,18.73,19.8,19.27
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2011,19.5,20.5,20
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Boro,Retail,2011,19.85,20.8,20.33
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2011,20.13,21.17,20.65
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Boro,Retail,2011,21,22,21.5
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Aman,Retail,2011,21.33,21.89,21.61
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Aman,Retail,2011,21.5,22,21.75
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Aman,Retail,2011,21.5,22,21.75
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Aman,Retail,2011,22,23,22.5
+Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,Boro,Retail,2011,22,23,22.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2011,24,26,25
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2011,23.67,27.33,25.5
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Aman,Retail,2011,25.88,26.88,26.38
+Rajshahi,Joypurhat,Joypurhat Sadar,Joypurhat Sadar,Aman,Retail,2011,26.82,27.82,27.32
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,26.73,28.05,27.39
+Rajshahi,Pabna,Pabna Sadar,Pabna Sadar,Aman,Retail,2011,27,28,27.5
+Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Sadar,Aman,Retail,2011,26,29.5,27.75
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2011,28,30,29
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2011,28,30,29
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2011,29,30,29.5
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2011,28.67,30.67,29.67
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2011,30,32,31
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2011,31,32,31.5
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2011,30,34,32
+Sylhet,Habiganj,Habiganj Sadar,Habiganj Sadar,Aman,Retail,2011,31.68,33.11,32.39
+Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Sadar,Aman,Retail,2011,30,35,32.5
+Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Sadar,Aman,Retail,2011,32,34,33
+Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sadar,Aman,Retail,2011,32,34,33
+Sylhet,Sylhet,Sylhet Sadar,Sylhet Sadar,Aman,Retail,2011,32,34,33
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Aman,Retail,2011,32.33,33.92,33.13
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Boro,Retail,2011,32.44,33.9,33.17
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2011,32.4,34,33.2
+Rajshahi,Pabna,Pabna Sadar,Pabna Sadar,Aman,Retail,2011,33,38,35.5
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2011,35,36,35.5
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2011,35,36,35.5
+Barisal,Jhalakathi,Jhalakathi Sadar,Jhalakathi Sadar,Aman,Retail,2011,35,36,35.5
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2011,36,38,37
+Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Sadar,Aman,Retail,2011,36,38,37
+Barisal,Jhalakathi,Jhalakathi Sadar,Jhalakathi Sadar,Aman,Retail,2011,36,38,37
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2011,35,40,37.5
+Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sadar,Aman,Retail,2011,36,40,38
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2011,38,40,39
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Aman,Retail,2011,38.13,40.31,39.22
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Boro,Retail,2011,38.95,41.24,40.1
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2011,40,42,41
+Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Sadar,Aman,Retail,2011,40.5,42,41.25
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2011,41.4,41.5,41.45
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,42,42.5,42.25
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2011,40,45,42.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,42,43,42.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,42.54,43,42.77
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2011,41.5,44.5,43
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,43,43.54,43.27
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2011,43,44,43.5
+Rajshahi,Pabna,Pabna Sadar,Pabna Sadar,Aman,Retail,2011,43,45,44
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2011,44,45,44.5
+Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Sadar,Aman,Retail,2011,44,46,45
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2011,46,46.5,46.25
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Boro,Retail,2011,47.52,50.19,48.86
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Aman,Retail,2011,48,50,49
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Aman,Retail,2011,50,52,51
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,54,54.5,54.25
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,55,55,55
+Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,Aman,Retail,2011,55,56,55.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2011,55,56,55.5
+Sylhet,Habiganj,Habiganj Sadar,Habiganj Sadar,Aman,Retail,2011,55,57,56
+Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sadar,Aman,Retail,2011,60,65,62.5
+Sylhet,Sylhet,Sylhet Sadar,Sylhet Sadar,Aman,Retail,2011,60,65,62.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2011,68.5,70.5,69.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2011,70,85,77.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2011,80,83.5,81.75
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2012,10.97,11.97,11.47
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2012,12,12,12
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2012,11.86,12.86,12.36
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2012,12.43,12.93,12.68
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2012,12,15,13.5
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2012,14,16,15
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2012,14.8,15.53,15.17
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2012,15.16,15.66,15.41
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2012,15.42,15.42,15.42
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2012,15.63,16.13,15.88
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2012,16.06,16.67,16.36
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2012,16.35,16.9,16.63
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2012,16.83,17.67,17.25
+Chittagong,Chandpur,Chandpur Sadar,Chandpur Sadar,Aman,Retail,2012,16.29,18.29,17.29
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Aman,Retail,2012,17.76,18.38,18.07
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2012,18.57,19.33,18.95
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2012,19.85,20.58,20.22
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2012,13.88,27.54,20.71
+Rajshahi,Nawabganj,Nawabganj Sadar,Nawabganj Sadar,Aman,Retail,2012,22.2,23.2,22.7
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Boro,Retail,2012,23.92,24.86,24.39
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2012,24,25,24.5
+Khulna,wrestling,Kushtia Sadar,Kushtia Sadar,Boro,Retail,2012,24.5,26.71,25.61
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Boro,Retail,2012,23.5,28,25.75
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Boro,Retail,2012,26.18,27.18,26.68
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2012,26,27.5,26.75
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Boro,Retail,2012,25.5,29,27.25
+Sylhet,Habiganj,Habiganj Sadar,Habiganj Sadar,Aman,Retail,2012,26.9,28.85,27.87
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2012,28,29,28.5
+Khulna,wrestling,Kushtia Sadar,Kushtia Sadar,Boro,Retail,2012,28,30,29
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Boro,Retail,2012,27.45,30.91,29.18
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2012,28.78,30.78,29.78
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Boro,Retail,2012,28,31.8,29.9
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Boro,Retail,2012,30.85,31.44,31.14
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Boro,Retail,2012,31,34,32.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2012,33,34,33.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2012,32,36,34
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Boro,Retail,2012,34,35,34.5
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2012,33.49,35.83,34.66
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Boro,Retail,2012,35.59,36.64,36.12
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2012,34.33,38.67,36.5
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2012,37.01,37.21,37.11
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Boro,Retail,2012,37.5,39.5,38.5
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2012,39.31,39.77,39.54
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2012,39.02,41.5,40.26
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2012,40.5,41,40.75
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Boro,Retail,2012,40,42,41
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2012,40.66,42.29,41.48
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2012,41,42,41.5
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Aman,Retail,2012,42.15,42.95,42.55
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Boro,Retail,2012,42.33,42.83,42.58
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Aman,Retail,2012,42.75,43.25,43
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2012,40.92,45.1,43.01
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Boro,Retail,2012,42.4,44.6,43.5
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2012,43,44,43.5
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2012,44,45,44.5
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Aus,Retail,2012,44.75,45.25,45
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2012,45,46,45.5
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Aman,Retail,2012,45,47,46
+Dhaka,Manikganj,Manikganj Sadar,Manikganj Sadar,Boro,Retail,2012,47,47.25,47.13
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2012,44,52,48
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2012,51,53,52
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2012,50,55,52.5
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Aman,Retail,2012,52,55,53.5
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Boro,Retail,2012,60.66,63.67,62.16
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2012,65,69.7,67.35
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2012,72,80,76
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2012,90,100,95
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2013,11.1,11.7,11.4
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2013,11,12,11.5
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2013,12,14,13
+Dhaka,Tangail,Bhuapur,Bhuyapur Sadar,Aman,Retail,2013,15,16,15.5
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2013,16,17,16.5
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2013,17.61,18.12,17.86
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2013,18.26,18.49,18.38
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2013,18,19,18.5
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Aman,Retail,2013,19.81,20.81,20.31
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2013,23.68,24.72,24.2
+Rajshahi,Nawabganj,Nawabganj Sadar,Nawabganj Sadar,Aman,Retail,2013,24.17,25.42,24.79
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2013,25.85,26.96,26.41
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2013,28.52,29.55,29.04
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2013,28.07,32.11,30.09
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2013,29.2,31,30.1
+Sylhet,Habiganj,Habiganj Sadar,Habiganj Sadar,Aman,Retail,2013,29.35,31.05,30.2
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2013,30,32,31
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2013,31,32,31.5
+Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,Aman,Retail,2013,32.19,33.49,32.84
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2013,32,34,33
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Boro,Retail,2013,34.08,36.02,35.05
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2013,36,38,37
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Aman,Retail,2013,36,40,38
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2013,39.42,39.7,39.56
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2013,34,46,40
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2013,43.49,44.86,44.17
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2013,43.57,45.57,44.57
+Sylhet,Sylhet,Sylhet Sadar,Sylhet Sadar,Boro,Retail,2013,44.56,44.77,44.67
+Sylhet,Sylhet,Sylhet Sadar,Sylhet Sadar,Boro,Retail,2013,44.87,45.08,44.98
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Boro,Retail,2013,45.25,45.75,45.5
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Boro,Retail,2013,45.5,45.98,45.74
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Aman,Retail,2013,45.67,46.17,45.92
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Boro,Retail,2013,46.5,47,46.75
+Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,Aman,Retail,2014,10,12,11
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2014,16,17,16.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2014,15,20,17.5
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2014,18.25,18.63,18.44
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2014,18,19,18.5
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2014,19.21,19.6,19.4
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2014,19,20,19.5
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2014,19.33,19.84,19.59
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2014,19.8,20.2,20
+Dhaka,Dhaka,Dhaka Sadar,Dhaka Sadar,Aman,Retail,2014,20,20,20
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2014,20.16,20.54,20.35
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Aman,Retail,2014,23.06,24.06,23.56
+Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,Boro,Retail,2014,23.41,24.49,23.95
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2014,20,30,25
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2014,25,30,27.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2014,34,36,35
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Boro,Retail,2014,36,40,38
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2014,39.9,40.1,40
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2014,39,42.5,40.75
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2014,40,46,43
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Aman,Retail,2014,43.12,43.24,43.18
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Boro,Retail,2014,40,50,45
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Boro,Retail,2014,44,48,46
+Sylhet,Sunamganj,Sunamganj Sadar,Sunamganj Sadar,Boro,Retail,2015,13.2,13.4,13.3
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2015,19,19,19
+Dhaka,Dhaka,Dhaka Sadar,Caravan Bazar,Aman,Retail,2015,20,25,22.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2015,21.5,23.5,22.5
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2015,22,24,23
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2015,25,25,25
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Boro,Retail,2015,25,26,25.5
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2015,26,27,26.5
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2015,26,28,27
+Rajshahi,Naogaon,Patnitala,Kritipur,Boro,Retail,2015,27,28,27.5
+Dhaka,Dhaka,Dhaka Sadar,Mirpur 1st Bazar,Aman,Retail,2015,26.5,29,27.75
+Dhaka,Dhaka,Dhaka Sadar,Dhaka Sadar,Aman,Retail,2015,28,29,28.5
+Khulna,Satkhira,Satkhira Sadar,Zhaodanga,Boro,Retail,2015,28,29,28.5
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2015,24,34,29
+Dhaka,Dhaka,Dhaka Sadar,Dhaka Sadar,Boro,Retail,2015,28,32,30
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2015,28,33,30.5
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2015,28,33,30.5
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2015,29.33,32.67,31
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Boro,Retail,2015,29.33,32.67,31
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2015,30,32,31
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Boro,Retail,2015,30,33,31.5
+Rajshahi,Naogaon,Patnitala,Kritipur,Boro,Retail,2015,31,32,31.5
+Khulna,Satkhira,Satkhira Sadar,Zhaodanga,Boro,Retail,2015,31,32,31.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2015,30.5,34.5,32.5
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2015,32.67,34.67,33.67
+Rajshahi,Naogaon,Patnitala,Kritipur,Boro,Retail,2015,34,36,35
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2015,34,36,35
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2015,34,38.5,36.25
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2015,36,38,37
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2015,36,38,37
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Aman,Retail,2015,36,38,37
+Dhaka,Dhaka,Dhaka Sadar,Dhaka Sadar,Boro,Retail,2015,40,42,41
+Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,Aman,Retail,2015,40,44.67,42.33
+Khulna,Satkhira,Satkhira Sadar,Zhaodanga,Boro,Retail,2015,43,44,43.5
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2015,46,48,47
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2015,46,48,47
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2015,46,48,47
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Aman,Retail,2015,46,50,48
+Dhaka,Dhaka,Dhaka Sadar,Dhaka Sadar,Boro,Retail,2015,45,52,48.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2015,48,50,49
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2015,48,50,49
+Rajshahi,Naogaon,Patnitala,Kritipur,Aman,Retail,2015,49,50,49.5
+Dhaka,Faridpur,Faridpur Sadar,Kanaipara,Aman,Retail,2016,10.5,10.9,10.7
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2016,14.25,14.25,14.25
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2016,15.38,15.38,15.38
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2016,15.56,16,15.78
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2016,16.98,16.98,16.98
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Boro,Retail,2016,22,23,22.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2016,24,25,24.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aus,Retail,2016,24,25,24.5
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2016,25,26,25.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aus,Retail,2016,25,26,25.5
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2016,26,27,26.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2016,26,27,26.5
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Aman,Retail,2016,25,30,27.5
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar 2,Aman,Retail,2016,25,30,27.5
+Barisal,Jhalakathi,Jhalakathi Sadar,Jhalakathi Sadar,Aman,Retail,2016,26,29,27.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2016,28,29,28.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2016,29.5,30.5,30
+Barisal,Barisal,Barisal Sadar,Barisal Sadar,Aman,Retail,2016,30,32,31
+Chittagong,Chittagong,Chittagong Sadar,Chittagong Sadar,Aman,Retail,2016,30,32,31
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2016,32,33,32.5
+Barisal,Jhalakathi,Jhalakathi Sadar,Jhalakathi Sadar,Aman,Retail,2016,32,34,33
+Khulna,Jessore,Jessore Sadar,Jessore Sadar,Aman,Retail,2016,33.67,34.75,34.21
+Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,Boro,Retail,2016,34,35,34.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2016,39.5,40,39.75
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2016,43,43.25,43.13
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2016,43.5,44,43.75
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Aman,Retail,2016,44,45,44.5
+Rajshahi,Naogaon,Patnitala,Kritipur,Aman,Retail,2016,48,50,49
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Aman,Retail,2016,90,100,95
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2017,19.2,19.8,19.5
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2017,20.71,20.73,20.72
+Dhaka,Manikganj,Manikganj Sadar,Manikganj Sadar,Boro,Retail,2017,20,22,21
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2017,20.59,21.59,21.09
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2017,21.03,22.17,21.6
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2017,21.44,22.18,21.81
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2017,21.93,22.62,22.28
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2017,21.87,23.23,22.55
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2017,22.12,23.12,22.62
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2017,22.57,23.24,22.9
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2017,22.53,23.53,23.03
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2017,22.71,23.71,23.21
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2017,23.1,23.68,23.39
+Rajshahi,Nawabganj,Nawabganj Sadar,Nawabganj Sadar,Aman,Retail,2017,23,24,23.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2017,23.15,24.15,23.65
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2017,23.26,24.26,23.76
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2017,23.51,24.51,24.01
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2017,23.68,24.39,24.04
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2017,23.59,24.59,24.09
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2017,23.85,24.56,24.2
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2017,24,24.53,24.27
+Khulna,Jhenaidah,Jhenaidah Sadar,Jhenaidah Sadar,Boro,Retail,2017,24.06,24.5,24.28
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2017,24.31,25.31,24.81
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2017,24.55,25.57,25.06
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2017,24.72,25.69,25.21
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2017,25.14,26.14,25.64
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2017,25.44,26.44,25.94
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2017,25.78,26.28,26.03
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2017,25.84,26.97,26.41
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2017,26,27,26.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2017,26.12,27.08,26.6
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2017,26.17,28.31,27.24
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2017,27.71,28.71,28.21
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2017,28.05,29.05,28.55
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2017,28.7,29.89,29.3
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2017,29.5,30.42,29.96
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2017,29.96,31.48,30.72
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2017,30.95,31.95,31.45
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2017,31.11,32,31.55
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2017,32.58,33.24,32.91
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2017,34.82,35.82,35.32
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Boro,Retail,2017,42,44,43
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Aman,Retail,2017,44,45,44.5
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Boro,Retail,2017,46,48,47
+Dhaka,Mymensingh,Nandale,Nandale,Aman,Retail,2017,46,48,47
+Dhaka,Faridpur,Boalmari,Kadirdi,Aman,Retail,2017,54,52,53
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2017,56.5,56.75,56.63
+Dhaka,Faridpur,Boalmari,Kadirdi,Aman,Retail,2017,58,60,59
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Aman,Retail,2017,58,60,59
+Dhaka,Faridpur,Faridpur Sadar,Kanaipara,Aman,Retail,2017,25,100,62.5
+Dhaka,Faridpur,Faridpur Sadar,Faridpur Sadar,Aman,Retail,2017,92,99.5,95.75
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2018,13,14,13.5
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2018,14,15,14.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2018,16.41,17.34,16.88
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2018,16.9,17.9,17.4
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2018,17.05,18.05,17.55
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2018,17.61,18.61,18.11
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aus,Retail,2018,17.68,18.68,18.18
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2018,17.72,18.72,18.22
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2018,18,19,18.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2018,18.08,19.02,18.55
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2018,18.08,19.08,18.58
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2018,18.74,19.74,19.24
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2018,18.75,19.75,19.25
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2018,19.07,20.05,19.56
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2018,19.25,20.25,19.75
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2018,19.49,20.8,20.14
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2018,19.65,20.71,20.18
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2018,19.97,20.9,20.44
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2018,20.61,21.55,21.08
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2018,20.96,21.96,21.46
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2018,21.14,21.93,21.54
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2018,21.38,22.41,21.89
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2018,21.84,22.84,22.34
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2018,22.1,23.1,22.6
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2018,22.18,23.25,22.72
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2018,22.58,23.58,23.08
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2018,23.14,24.04,23.59
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2018,23.54,24.58,24.06
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2018,23.58,24.58,24.08
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2018,23.86,25.05,24.46
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2018,24.38,25.38,24.88
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2018,24.69,25.45,25.07
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2018,24.55,25.68,25.11
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2018,25,26,25.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2018,25,26,25.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2018,25,26,25.5
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2018,25.39,26.39,25.89
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2018,26.07,27.07,26.57
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2018,26.32,27.32,26.82
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2018,26.42,27.42,26.92
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2018,29.3,30.21,29.75
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2018,29.95,30.95,30.45
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2019,9.31,10.31,9.81
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2019,9.5,10.5,10
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2019,11.81,12.81,12.31
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2019,13,14,13.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2019,13,14.17,13.58
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2019,13.52,14.17,13.85
+Khulna,Bagerhat,Bagerhat Sadar,Bagerhat Sadar,Boro,Retail,2019,13.53,14.37,13.95
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2019,13.57,14.57,14.07
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Aman,Retail,2019,14,15,14.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2019,14,15,14.5
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2019,14.27,14.8,14.53
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2019,14.5,15,14.75
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2019,14.45,15.42,14.93
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2019,14.83,15.83,15.33
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2019,15.16,16.16,15.66
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2019,15.35,16.35,15.85
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2019,15.48,16.48,15.98
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2019,15.8,16.2,16
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2019,15.56,16.67,16.11
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2019,15.65,16.65,16.15
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2019,15.93,16.93,16.43
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2019,16,17,16.5
+Khulna,Bagerhat,Bagerhat Sadar,Bagerhat Sadar,Boro,Retail,2019,16.55,17.12,16.83
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2019,16.5,17.5,17
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2019,16.52,17.5,17.01
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2019,17.08,18.08,17.58
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2019,17.05,18.19,17.62
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2019,17.18,18.08,17.63
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2019,17.33,17.97,17.65
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2019,17.5,18,17.75
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2019,17.33,18.33,17.83
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2019,17.43,18.63,18.03
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2019,17.64,18.64,18.14
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2019,17.75,18.79,18.27
+Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,Aman,Retail,2019,18,19,18.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2019,18,19,18.5
+Rajshahi,Sirajganj,Ullapara,Ullapara,Aman,Retail,2019,18,19,18.5
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2019,18.24,19.04,18.64
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2019,18.22,19.16,18.69
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2019,18.61,19.65,19.13
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2019,18.7,19.7,19.2
+Rajshahi,Sirajganj,Ullapara,Ullapara,Aman,Retail,2019,19,20,19.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2019,19.27,20.36,19.82
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2019,19.62,20.64,20.13
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2019,19.85,20.85,20.35
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2019,19.9,20.9,20.4
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2019,20,21,20.5
+Rajshahi,Sirajganj,Ullapara,Ullapara,Aman,Retail,2019,20,21,20.5
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2019,20.11,21.25,20.68
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2019,19.73,21.73,20.73
+Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,Aman,Retail,2019,21,22,21.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2019,21.01,21.98,21.5
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2019,24.49,25.49,24.99
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2019,25.31,26.31,25.81
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2019,25.5,26.5,26
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2019,28.75,29.75,29.25
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2019,29,30.5,29.75
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2019,34.97,36.32,35.65
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Boro,Retail,2019,50,52,51
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Aman,Retail,2019,50,60,55
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2020,15.55,16.03,15.79
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Boro,Retail,2020,16.1,17.07,16.58
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Boro,Retail,2020,16,17.5,16.75
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2020,17.23,18.24,17.73
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2020,17.53,18.53,18.03
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2020,17.79,18.79,18.29
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2020,18.05,18.55,18.3
+Chittagong,Khagrachari,Khagrachari,Khagrachari Sadar,Boro,Retail,2020,17.88,18.88,18.38
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Aman,Retail,2020,18,20,19
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2020,18.71,19.71,19.21
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2020,19.03,20.03,19.53
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2020,19.14,20.14,19.64
+Khulna,Magura,Magura Sadar,Magura Sadar,Boro,Retail,2020,19.45,20.45,19.95
+Chittagong,Feni,Feni,Feni Sadar,Aman,Retail,2020,19.56,20.5,20.03
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2020,19.53,20.59,20.06
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2020,19.59,20.59,20.09
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2020,20.05,20.55,20.3
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2020,19.83,20.83,20.33
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2020,19.95,20.96,20.46
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Sadar,Aman,Retail,2020,20,21,20.5
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2020,19.72,21.48,20.6
+Chittagong,Feni,Feni,Feni Sadar,Boro,Retail,2020,20.5,21,20.75
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2020,20.66,21.66,21.16
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2020,20.86,21.86,21.36
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Boro,Retail,2020,21,22,21.5
+Chittagong,Noakhali,Noakhali Sadar,Noakhali Sadar,Boro,Retail,2020,21,22,21.5
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2020,21.04,22.04,21.54
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2020,21.17,22.28,21.73
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2020,21.29,22.53,21.91
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Aman,Retail,2020,21.57,22.68,22.13
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2020,21.71,22.95,22.33
+Khulna,Magura,Magura Sadar,Magura Sadar,Boro,Retail,2020,22,23,22.5
+Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,Boro,Retail,2020,22.03,23.03,22.53
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Boro,Retail,2020,22.18,23.44,22.81
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Boro,Retail,2020,22.28,23.5,22.89
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2020,22.47,23.47,22.97
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2020,22.48,23.48,22.98
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Aman,Retail,2020,22.65,23.65,23.15
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2020,22.73,23.73,23.23
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2020,22.95,24.36,23.66
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Aman,Retail,2020,23.06,24.99,24.03
+Dhaka,Tangail,Tangail Sadar Bazar,Tangail Sadar Bazar,Boro,Retail,2020,23.63,24.63,24.13
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aus,Retail,2020,23.69,24.69,24.19
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2020,23.63,24.77,24.2
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2020,24.11,24.74,24.42
+Khulna,Magura,Magura Sadar,Magura Sadar,Boro,Retail,2020,24,25,24.5
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2020,24.02,25.06,24.54
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2020,24.18,25.18,24.68
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2020,24.25,25.25,24.75
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Aman,Retail,2020,24.72,25.84,25.28
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2020,24.7,25.91,25.3
+Chittagong,Noakhali,Noakhali Sadar,Noakhali Sadar,Aman,Retail,2020,25,26,25.5
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2020,25.07,26.07,25.57
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Aman,Retail,2020,25.33,26.33,25.83
+Dhaka,Netrokona,Netrokona Sadar,Netrokona Sadar,Boro,Retail,2020,25.52,26.3,25.91
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2020,25.16,27.05,26.11
+Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,Aman,Retail,2020,26,27,26.5
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Bazar,Aman,Retail,2020,26.1,27,26.55
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2020,26.12,27.12,26.62
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2020,26.13,27.13,26.63
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2020,26.16,27.16,26.66
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2020,26.09,27.29,26.69
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2020,26.31,27.31,26.81
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Aus,Retail,2020,26.18,28,27.09
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2020,26.75,27.81,27.28
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2020,26.79,27.79,27.29
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2020,26.81,27.81,27.31
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Boro,Retail,2020,26.66,28.06,27.36
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Bazar,Aman,Retail,2020,27.03,27.8,27.42
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2020,26.74,28.25,27.49
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2020,27,28,27.5
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Boro,Retail,2020,27.3,28.47,27.88
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2020,27.59,28.82,28.21
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aus,Retail,2020,27.57,29.39,28.48
+Rajshahi,Sirajganj,Sirajganj Sadar,Sirajganj Sadar,Boro,Retail,2020,27.84,29.15,28.5
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2020,28.47,29.47,28.97
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2020,28.55,29.55,29.05
+Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,Boro,Retail,2020,28.75,29.84,29.29
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2020,29,30,29.5
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2020,29.39,30.39,29.89
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2020,29.34,30.85,30.1
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2020,30,31,30.5
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2020,29.76,31.32,30.54
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2020,30.31,31.31,30.81
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2020,32.8,33.53,33.17
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2020,38.05,39.82,38.93
+Chittagong,Brahmanbaria,Brahmanbaria Sadh,Brahmanbaria Sadar,Boro,Retail,2020,43.87,44.67,44.27
+Chittagong,Brahmanbaria,Brahmanbaria Sadh,Brahmanbaria Sadar,Boro,Retail,2020,47.33,50.26,48.8
+Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,Boro,Retail,2020,76.43,80.93,78.68
+Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,Boro,Retail,2020,85.64,90.14,87.89
+Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,Boro,Retail,2020,94.64,99.14,96.89

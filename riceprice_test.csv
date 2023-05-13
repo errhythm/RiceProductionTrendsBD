@@ -1,0 +1,143 @@
+division,district,upazila,bazar,merchandise,price_type,year,price
+Barisal,Jhalakathi,Jhalakathi Sadar,Jhalakathi Sadar,Boro,Retail,2021,18.69
+Dhaka,Tangail,Tangail Sadar Bazar,Tangail Sadar Bazar,Aman,Retail,2021,20.5
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Aus,Retail,2022,21
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Boro,Retail,2021,21.5
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2021,21.53
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2021,21.58
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2022,21.93
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2021,22.28
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2021,22.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2021,22.55
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Aman,Retail,2022,22.58
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Aman,Retail,2021,22.7
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2021,22.74
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aman,Retail,2022,22.84
+Barisal,Bhola,Bhola Sadar,Bhola Sadar,Aus,Retail,2021,23
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2022,23.02
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Boro,Retail,2021,23.2
+Dhaka,Tangail,Tangail Sadar Bazar,Tangail Sadar Bazar,Aman,Retail,2022,23.29
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Boro,Retail,2021,23.34
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2021,23.55
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2021,24
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2021,24.08
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2022,24.23
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2022,24.24
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2021,24.3
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Aman,Retail,2021,24.32
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2021,24.36
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2022,24.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aus,Retail,2021,24.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2022,24.5
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Boro,Retail,2022,24.54
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2021,24.58
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2021,24.87
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Boro,Retail,2021,24.9
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2022,25.05
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2022,25.31
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2021,25.32
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2022,25.38
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Boro,Retail,2021,25.46
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aus,Retail,2021,25.5
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2021,25.5
+Chittagong,Noakhali,Noakhali Sadar,Noakhali Sadar,Aman,Retail,2021,25.58
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Aus,Retail,2021,25.7
+Barisal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,Aman,Retail,2021,25.77
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Boro,Retail,2021,25.87
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2022,25.94
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2021,25.95
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2021,25.96
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2022,26.11
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2022,26.16
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2021,26.16
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Boro,Retail,2021,26.18
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Aman,Retail,2022,26.19
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2021,26.25
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2021,26.36
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Aman,Retail,2021,26.36
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2022,26.38
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2022,26.5
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2022,26.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2021,26.52
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2022,26.6
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2022,26.68
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2022,26.73
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2022,26.83
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2021,26.83
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2021,26.98
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2022,27
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Aman,Retail,2022,27.03
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2021,27.03
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2021,27.12
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2021,27.32
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2021,27.34
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2021,27.36
+Dhaka,Tangail,Tangail Sadar Bazar,Tangail Sadar Bazar,Boro,Retail,2021,27.38
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2021,27.44
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2022,27.45
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2021,27.48
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Aman,Retail,2022,27.63
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Boro,Retail,2021,27.64
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2022,27.77
+Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,Aman,Retail,2021,27.79
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2021,27.79
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Boro,Retail,2022,27.98
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Aman,Retail,2022,28.01
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Aman,Retail,2021,28.03
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,Boro,Retail,2022,28.11
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2021,28.12
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Boro,Retail,2021,28.13
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Boro,Retail,2022,28.15
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2022,28.3
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Aus,Retail,2021,28.3
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Aus,Retail,2021,28.39
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2022,28.4
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2022,28.5
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2021,28.5
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2022,28.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2022,28.58
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2021,28.66
+Dhaka,Tangail,Tangail Sadar Bazar,Tangail Sadar Bazar,Boro,Retail,2022,28.68
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Aman,Retail,2021,28.89
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aus,Retail,2022,29
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Aman,Retail,2021,29.13
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2021,29.16
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2021,29.34
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2021,29.35
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Boro,Retail,2022,29.5
+Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,Aman,Retail,2021,29.51
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2022,29.53
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2021,29.58
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2022,29.78
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2021,29.88
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2022,29.96
+Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,Aman,Retail,2022,30.16
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2021,30.22
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2021,30.23
+Rangpur,Rangpur,Rangpur Sadar,Rangpur Municipality Market,Boro,Retail,2022,30.23
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Aman,Retail,2021,30.31
+Dhaka,Gazipur,Gazipur,Gazipur Sadar,Boro,Retail,2022,30.33
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2021,30.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2021,30.5
+Barisal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,Aman,Retail,2021,30.54
+Barisal,Barguna,Barguna Sadar,Barguna Sadar,Aman,Retail,2021,30.85
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2021,30.95
+Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,Boro,Retail,2021,30.98
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2022,31.35
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Aman,Retail,2022,31.74
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Boro,Retail,2022,31.82
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Boro,Retail,2022,32.31
+Dhaka,Netrakona,Netrakona Sadar,Netrakona Sadar,Aman,Retail,2022,32.41
+Dhaka,Sherpur,Sherpur Sadar,Sherpur Sadar,Aman,Retail,2021,32.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Aman,Retail,2021,32.5
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2021,32.82
+Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,Boro,Retail,2022,33
+Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,Aman,Retail,2021,33.75
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2022,34.35
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Boro,Retail,2022,34.64
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Aman,Retail,2022,35.53
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Boro,Retail,2022,38.59
+Rajshahi,Natore,Natore Sadar,Natore Sadar,Boro,Retail,2022,39.71
+Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,Aman,Retail,2021,41
+Khulna,Jessore,Headquarter of Jessore,Headquarter of Jessore,Boro,Retail,2021,44.82
+Dhaka,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,Aman,Retail,2022,50
