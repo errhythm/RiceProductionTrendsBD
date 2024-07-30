@@ -43,7 +43,7 @@ This study offers deep insights into the dynamics of rice production and pricing
 ## Contributors
 - **Ehsanur Rahman Rhythm** (BRAC University, Bangladesh) - [Email](mailto:errhythm.me@gmail.com)
 
-### Caution
+### ⚠️ Caution
 The entire codebase in this repository was developed solely by me. If you encounter anyone else claiming this work as their own, please be aware that it is an act of plagiarism.
 
 If you would like more details, please refer to the full report.
